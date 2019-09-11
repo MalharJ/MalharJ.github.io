@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Malhar Jere Reading List</title>
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+  </head>
+
+  <!-- The thing in the top right -->
+  <body class="text-center">
+    <div class="cover-container d-flex p-3 mx-auto flex-column">
+      <header class="masthead mb-auto">
+        <div class="inner">
+          <h1 class="masthead-brand">Malhar Jere Reading List</h1>
+          <nav class="nav nav-masthead justify-content-center">
+          <a class="nav-link active" href="./index.html">Home</a>
+          </nav>
+        </div>
+      </header>
+  <br><br>
+      <main role="main" class="inner cover">
+        <h3 class="cover-heading" align="center"> There's so much more than what meets the eye </h3>
+        
+        I was at a conference today, and someone was talking about the potential of machine learning to discover patterns that 
+        humans couldn't normally pick up on. Aside from the fact that everyone seems to be talking about the promise of 
+        machine learning to solve medicine/security/random business problem, this topic got me thinking along a different tangent; why are there patterns at all?
+        
+        As an undergraduate student at UIUC I had an extremely deep interest in Quantum Mechanics and all the weird 
+        things that surround it, and I took a lot of Quantum and Statistical Physics classes. According to statistical physics,
+        particles are always wobbling around with some energy and bumping into things all around them and throwing their energy all around.
+        
+      (to be continued - work in progress at the moment)
+        
+      </main>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
